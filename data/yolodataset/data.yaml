@@ -1,0 +1,19 @@
+train: 
+  images: 
+    - D:\YoloTZ\data\yolodataset\images\train
+  labels:
+    - D:\YoloTZ\data\yolodataset\labels\train
+val: D:\YoloTZ\data\yolodataset\images\val
+test: D:\YoloTZ\data\yolodataset\images\test
+nc: 10
+names: ["Borsch",
+"Caesar Salad",
+"Cup of tea",
+"Empty cup",
+"Empty plate",
+"Fried chicken breast",
+"Greek Salad",
+"Lamb shish kebab",
+"Pumpkin soup",
+"Tea"
+]

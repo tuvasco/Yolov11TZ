@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.cache2
+*.log
+runs/
+data/raw_videos/
+data/frames/
+data/yolodataset/images
+*.cache

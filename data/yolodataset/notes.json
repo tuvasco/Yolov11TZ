@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Borsch"
+    },
+    {
+      "id": 1,
+      "name": "Caesar Salad"
+    },
+    {
+      "id": 2,
+      "name": "Cup of tea"
+    },
+    {
+      "id": 3,
+      "name": "Empty cup"
+    },
+    {
+      "id": 4,
+      "name": "Empty plate"
+    },
+    {
+      "id": 5,
+      "name": "Fried chicken breast"
+    },
+    {
+      "id": 6,
+      "name": "Greek Salad"
+    },
+    {
+      "id": 7,
+      "name": "Lamb shish kebab"
+    },
+    {
+      "id": 8,
+      "name": "Pumpkin soup"
+    },
+    {
+      "id": 9,
+      "name": "Tea"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
