@@ -8,6 +8,5 @@ data/raw_videos/*
 !data/raw_videos/*
 data/frames/*
 !data/frames/
-data/yolodataset/images/*
-!data/yolodataset/images/
+
 *.cache
