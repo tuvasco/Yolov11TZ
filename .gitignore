@@ -4,7 +4,10 @@ __pycache__/
 *.cache2
 *.log
 runs/
-data/raw_videos/
-data/frames/
-data/yolodataset/images
+data/raw_videos/*
+!data/raw_videos/*
+data/frames/*
+!data/frames/
+data/yolodataset/images/*
+!data/yolodataset/images/
 *.cache
